@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [Installing](#Installing)
-- [How to play](#How to play)
+- [How-to-play](#Playing-The-Game)
 
 ## Installing
 Installing from Source
