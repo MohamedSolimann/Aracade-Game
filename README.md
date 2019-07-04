@@ -2,24 +2,23 @@
 
 ## Table of Contents
 
-- [Installing](#Installing)
-- [How-to-play](#Playing-The-Game)
+- [Instructions](#instructions)
+- [Install](#install)
 
-## Installing
+## Instructions
+
+1-Using the arrow keys on your keyboard to move.
+
+2-Try to avoid the cockroaches(Enemies) to reach water.
+
+3-If you made to water, you won!. if you collided with enemy you will restart game(You lose)!
+
+## Install
 Installing from Source
 
 Clone the following repo:
 
-1-git clone https://github.com/MohamedSolimann/Aracade-Game.git
+1-git clone https://github.com/MohamedSolimann/Aracade-Game.git 
 2-Load index.html in browser.
 
 Play the game
-
-
-## How to play 
-
-1-Using the arrow keys on your keyboard to move.
-
-2-Try to avoid the cockroaches to reach the water.
-
-3-If you made it in the water, you Win! , press ok, to play agian.
