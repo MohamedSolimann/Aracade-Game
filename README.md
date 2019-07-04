@@ -2,16 +2,16 @@
 
 ## Table of Contents
 
-- [Instructions](#Installing)
-- [Contributing](#contributing)
+- [Installing](#Installing)
+- [How to play](#How to play)
 
 ## Installing
 Installing from Source
 
 Clone the following repo:
 
-git clone https://github.com/MohamedSolimann/Aracade-Game.git
-Load index.html in browser.
+1-git clone https://github.com/MohamedSolimann/Aracade-Game.git
+2-Load index.html in browser.
 
 Play the game
 
